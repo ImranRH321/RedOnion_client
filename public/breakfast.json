@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "price": "$10.43",
+    "img1": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Hardin Walls",
+    "title": "Julianne Soto",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  },
+  {
+    "id": 2,
+    "price": "$11.78",
+    "img1": "https://i.ibb.co/HdcRMGK/breakfast2.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Francesca Austin",
+    "title": "Collins Tran",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  },
+  {
+    "id": 3,
+    "price": "$8.55",
+    "img1": "https://i.ibb.co/k90R6gW/breakfast3.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Florine Little",
+    "title": "Dina Herring",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  },
+  {
+    "id": 4,
+    "price": "$13.37",
+    "img1": "https://i.ibb.co/0CYGPqY/breakfast4.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Schroeder Brewer",
+    "title": "Etta Stevens",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  },
+  {
+    "id": 5,
+    "price": "$14.52",
+    "img1": "https://i.ibb.co/ncxTD3W/breakfast5.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Hubbard Stuart",
+    "title": "Guerra Vang",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  },
+  {
+    "id": 6,
+    "price": "$14.52",
+    "img1": "https://i.ibb.co/w0Yvrz5/breakfast6.png",
+    "img2": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "img3": "https://i.ibb.co/vdn7KNW/breakfast1.png",
+    "name": "Hubbard Stuart",
+    "title": "Guerra Vang",
+    "description": "A review site is a website on which reviews can be posted about people, businesses, products, or "
+  }
+]

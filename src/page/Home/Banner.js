@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div class="hero min-h-[500px] bg-green-700 border ">
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center k">
         <input
           type="text"
           placeholder="Type here"
